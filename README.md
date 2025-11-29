@@ -1,1 +1,1 @@
-# Moreira is the method for bots joining you, this script is 100% guarantee to join you.
+# Moreira is the method for bots joining you, this script is 100% working as of november 29th.
